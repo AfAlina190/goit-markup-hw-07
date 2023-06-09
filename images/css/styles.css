@@ -1,0 +1,252 @@
+/*  ======Body-page====== */
+.page{
+    font-family: "Roboto", sans-serif;
+    color: #434455;
+    background-color: #FFFFFF;
+}
+/* Header portfolio */
+*body {
+font-family: 'Roboto', sans-serif;
+color: #2E2F42;
+font-style: normal;
+background-color: #ffffff;
+}
+
+.logo-link{
+    font-family: "Raleway", sans-serif;
+    font-weight: 800;
+    font-size: 18px;
+    line-height: 1.17;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    color: #4d5ae5;
+}
+
+.logo-part-two{
+color:#2e2f42;
+}
+.link{
+    text-decoration: none;
+}
+/* ======Body-page====== */
+
+/* =====Main-section-button===== */
+.modal-open-button{
+    background-color:#404bbf;
+}
+
+/* contact menu */
+.contact-font{
+ font-style: normal;   
+}
+
+.contact-link{
+    color: var(--secondary-text-color);
+}
+
+/* index header color second swction */
+.primary-color{
+ color: var(--primary-text-color: #2E2F42);
+   
+}
+
+/* index first section header  colour */
+.font-white-text{
+color: #ffffff;
+}
+
+/* list decoration */
+.list {
+list-style: none;
+}
+.menu-link{
+    
+    font-family: 'Roboto', sans-serif;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 24px;
+    letter-spacing: 0.02em;
+    
+     color: var(--title-color);
+}
+
+.contact-link:hover,
+.contact-link:focus {
+    color: #404BBF;
+}
+
+.menu-link:hover,
+.menu-link:focus {
+    color: #404BBF;
+    
+}
+
+
+.adress-font{
+font-style: normal;    
+}
+
+
+:root {
+    --background-dark: #2e2f42;
+    --background-light: #f4f4fd;
+    --background-white: #ffffff;
+    --primary-btn: #4d5ae5;
+    --pressed-btn: #404bbf;
+    --title-color: #2e2f42;
+    --descr-color: #434455;
+    --button-color-text: #4D5AE5;
+    --button-bg: #F4F4FD;
+}
+
+/* portfolio-card-title */
+.portfolio-card-title{
+color: var(--title-color);
+}
+
+.portfolio-card-text{
+color: var(--descr-color);
+}
+
+.logo-part-two-footer {
+    color:#f4f4fd;
+}
+
+/*header  */
+.main-header-text{
+
+font-weight: 700;
+font-size: 56px;
+line-height: 1.07;
+letter-spacing: 0.02em;
+text-align: center;
+
+}
+
+.main-background{
+background-color: #2e2f42;    
+}
+/* Header 2 */ /* index four-section-title */
+.header-pic{
+font-weight: 700;
+font-size: 36px;
+line-height: 1.11;
+letter-spacing: 0.02em;
+text-align: center;
+background-color: #F4F4FD;
+text-transform: capitalize;
+color:#2e2f42;
+
+}
+
+/* Header 3 */
+.header-title{
+font-weight: 500;
+font-size: 20px;
+line-height: 1.2;
+letter-spacing: 0.02em;    
+}
+
+/* Body */
+.body-adress {
+font-weight: 400;
+font-size: 16px;
+line-height: 1.5;
+letter-spacing: 0.02em; 
+color: #434455;
+}
+
+/* Body Medium */
+.body-text{
+
+font-weight: 500;
+font-size: 16px;
+line-height: 1.5;   
+letter-spacing: 0.02em;
+}
+
+/* Button Text */
+.button-text{
+
+font-weight: 500;
+font-size: 16px;
+line-height: 1.5;
+align-items: center;
+letter-spacing: 0.04em;
+font-family: 'Roboto', sans-serif;
+font-style: normal;
+
+}
+
+/* Header 3 */
+.header-title-list{
+font-weight: 400;
+font-size: 16px;
+line-height: 1.5;
+letter-spacing: 0.02em;
+}
+/* Body */
+.header-list-text {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #434455;
+}
+
+.footer-logo-link {
+    font-family: "Raleway", sans-serif;
+    font-weight: 800;
+    font-size: 18px;
+    line-height: 1.17;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    color: #4d5ae5;
+    background-color: #2e2f42;
+}
+
+.footer-color{
+    background-color: #2e2f42;
+    color: #f4f4fd;
+}
+
+
+
+
+/* index button */
+.main-button{
+    background-color: #4D5AE5;
+    font-family: "Roboto", sans-serif;
+    color: #ffffff;
+    cursor: pointer;
+}
+.main-button:hover,
+.main-button:focus {
+    background-color: #404BBF;
+}
+/* portfolio button */
+.filter-btn {
+    color: var(--button-color-text);
+    background-color: var(--button-bg);
+    cursor: pointer;
+}
+
+.filter-btn:hover,
+.filter-btn:focus {
+    color: #FFFFFF;
+    background-color: #404BBF;
+}
+
+
+/*  index hidden header */
+.hidden-header{
+    color:#2e2f42;
+}
+.white-background{
+    background-color: #FFFFFF;
+}
+
+
+.features-title{
+    color: var(--title-color);
+}
